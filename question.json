@@ -1,0 +1,58 @@
+[
+    {
+      "questionNo": "Q6",
+      "question": "Sam sees books labelled 125 and 127. Which number comes between them?",
+      "options": [
+        "124",
+        "128",
+        "126",
+        "129"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q7",
+      "question": "What number comes between 349 and 351?",
+      "options": [
+        "350",
+        "348",
+        "352",
+        "353"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q8",
+      "question": "Sam finds books labelled 478 and 480. What number is missing between these two?",
+      "options": [
+        "477",
+        "481",
+        "479",
+        "482"
+      ],
+      "correct": 2
+    },
+    {
+      "questionNo": "Q9",
+      "question": "Sam notices books labelled 601 and 603. Which number goes in between them?",
+      "options": [
+        "602",
+        "600",
+        "604",
+        "605"
+      ],
+      "correct": 0
+    },
+    {
+      "questionNo": "Q10",
+      "question": "Sam checks books numbered 899 and 901. Which number is missing between them?",
+      "options": [
+        "902",
+        "898",
+        "900",
+        "897"
+      ],
+      "correct": 2
+    }
+  ]
+  

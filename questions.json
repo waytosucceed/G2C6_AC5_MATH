@@ -1,0 +1,32 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Sam finds two books.Fill in the number in the blank box that comes in between these two numbers.",
+    "options":["39","","41"],
+    "answers": ["39","40","41"]
+  },
+  {
+    "questionNo": 2,
+    "question": "Sam spots books labelled 54 and 56. Which number will come in the blank box in between these numbers?",
+    "options":["54","","56"],
+    "answers": ["54","55","56"]
+  },
+  {
+    "questionNo": 3,
+    "question": "Sam notices books with numbers 187 and 189. What number should go in the blank box between them?",
+    "options":["187","","189"],
+    "answers": ["187","188","189"]
+  },
+  {
+    "questionNo": 4,
+    "question": "Two books are returned, labelled 99 and 101. What number is missing between them?",
+    "options":["99","","101"],
+    "answers": ["99","100","101"]
+  },
+  {
+    "questionNo": 5,
+    "question": "Sam finds books numbered 119 and 121. What number comes in the blank box between these two?",
+    "options":["119","","121"],
+    "answers": ["119","120","121"]
+  }
+]
